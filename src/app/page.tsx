@@ -349,7 +349,7 @@ export default function HomePage() {
             </div>
             <div className="text-center p-6 border rounded-lg">
               <h3 className="text-lg font-semibold text-[#18176b] mb-2">Check Refund</h3>
-              <p className="text-gray-600">Contact mazoairways@rwop.online for check refund status</p>
+              <p className="text-gray-600">Contact contact.mazoairways@swtb.online for check refund status</p>
             </div>
             <div className="text-center p-6 border rounded-lg">
               <h3 className="text-lg font-semibold text-[#18176b] mb-2">Offer Deals</h3>
@@ -641,7 +641,7 @@ export default function HomePage() {
               <h3 className="text-lg font-semibold mb-4">Contacts</h3>
               <p className="mb-2">102 Woodland Ave, 92922 TX CA United States</p>
               <p className="mb-2">+13349484877</p>
-              <p>mazoairways@rwop.online</p>
+              <p>contact.mazoairways@swtb.online</p>
             </div>
             <div>
               <h3 className="text-lg font-semibold mb-4">Newsletter</h3>
